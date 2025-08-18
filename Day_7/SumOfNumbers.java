@@ -1,5 +1,5 @@
-package Looping_Through_String_Problems;
-class SumOfNumbers
+
+public class SumOfNumbers
 {
  public static void main(String[] args)
  {

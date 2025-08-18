@@ -1,5 +1,5 @@
-package Looping_Through_String_Problems;
-class ReverseString
+
+public class ReverseString
 {
  public static void main(String[] args)
  {

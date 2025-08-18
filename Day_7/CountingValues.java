@@ -1,5 +1,5 @@
-package Looping_Through_String_Problems;
-class CountingValues
+
+public class CountingValues
 {
  public static void main(String[] args)
  {

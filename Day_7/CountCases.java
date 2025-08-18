@@ -1,4 +1,3 @@
-package Looping_Through_String_Problems;
 
 class CountCases
 {

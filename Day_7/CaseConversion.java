@@ -1,6 +1,4 @@
-package Looping_Through_String_Problems;
-
-class CaseConversion
+public class CaseConversion
 {
  public static void main(String[] args)
  {
