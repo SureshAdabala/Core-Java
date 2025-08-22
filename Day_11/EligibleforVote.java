@@ -1,5 +1,5 @@
-import java.util.Scanner;
-public class Eligibleforvoting
+import java.util.*;
+public class EligibleforVote
 {
     public static void main(String[] args)
     {
