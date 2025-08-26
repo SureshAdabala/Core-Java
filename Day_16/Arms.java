@@ -1,4 +1,5 @@
-public class ArmstrongRange {
+package Day_16;
+public class Arms {
     public static void main(String[] args) {
         //Intializing Values
         for(int i=1;i<=1000;i++) {
