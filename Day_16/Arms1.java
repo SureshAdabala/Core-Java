@@ -1,6 +1,6 @@
-package Day_16;
+
 import java.util.*;
-public class Arms1 {
+class Arms1 {
     public static void main(String[] args) {
         //Intializing Values
             Scanner sc =new Scanner(System.in);
@@ -26,7 +26,7 @@ public class Arms1 {
             sum=sum+power;
             temp2=temp2/10;
         }if(sum==num) {
-            System.out.println(num+" is a Armstrong number");
+            System.out.print(num+" is a Armstrong number");
         }
         else
         {
